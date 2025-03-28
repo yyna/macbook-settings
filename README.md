@@ -6,3 +6,4 @@
 - https://github.com/ohmyzsh/ohmyzsh
 - https://github.com/romkatv/powerlevel10k
 - https://github.com/gureum/gureum
+- https://www.cursor.com/
